@@ -18,12 +18,12 @@ Além disso, deve ter um método chamado atacar que deve atender os seguientes r
     - exibir a mensagem: "o **{tipo}** atacou usando **{ataque}**"<br>
     - onde no **{tipo}** deve ser concatenando o tipo que está na propriedade da classe<br>
     - e no **{ataque}** deve seguir uma descrição diferente conforme o tipo, seguindo a tabela abaixo:<br>
-    | IF | DO |
-    | -------- | ------------------- |
-    | se mago | usou magia |
-    | se guerreiro | usou espada |
-    | se monge | usou artes marciais |
-    | se ninja | usou shuriken |
+| IF | DO |
+| -------- | ------------------- |
+| se mago | usou magia |
+| se guerreiro | usou espada |
+| se monge | usou artes marciais |
+| se ninja | usou shuriken |
 
 ## Saída
 Ao final deve se exibir uma mensagem: "o {tipo} atacou usando {ataque}"
